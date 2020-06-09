@@ -1,0 +1,27 @@
+{
+  "name": "exameniparc_rudy_negocios",
+  "version": "1.0.0",
+  "description": "Examen",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RudyRosa0318/ExamenIParc_Rudy_Negocios.git"
+  },
+  "author": "RudyRosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RudyRosa0318/ExamenIParc_Rudy_Negocios/issues"
+  },
+  "homepage": "https://github.com/RudyRosa0318/ExamenIParc_Rudy_Negocios#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "nodemon": "^2.0.4",
+    "save": "^2.4.0",
+    "sequelize": "^5.21.12"
+  }
+}
